@@ -1,5 +1,5 @@
 hello 
 this is nishant
 it is git practical
-
+new
 This is new content from new branch
